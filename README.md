@@ -20,10 +20,10 @@ Application de détection de similarité entre projets étudiants permettant de 
 
 | Catégorie | Technologies |
 |------------|--------------|
-| Back-end | Python 3.12, Flask |
+| Back-end | Laravel 11 |
+| Front-end| Blade|
 | Base de données | PostgreSQL 16 |
 | Algorithmique | Winnowing, Rabin-Karp, Hachage MD5 |
-| Build | pip / venv |
 
 ## Fonctionnalités
 
